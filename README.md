@@ -1,4 +1,4 @@
-# Bank-Management with SQL integration
+# Bank-Management with SQL integration using Python
 
 <h4> Integrated MySQL with Python using mysql.connector </h4>
 
